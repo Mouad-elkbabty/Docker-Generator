@@ -1,4 +1,4 @@
-name : "Docker Generator
+name : "Docker Generator"
 author : "EL kbabty Mouad"
 description : "Generates a feed for a podcats from a YAML file "
 runs : 
